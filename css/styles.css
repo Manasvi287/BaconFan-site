@@ -1,0 +1,26 @@
+           /*Tag Selectors*/
+
+h1{
+font-size: 50px;
+color: red;}
+
+       /*Class Selectors*/
+.Bacon{
+    background-color: green;
+}
+.Broccoli{
+    background-color: red;
+}
+.Bacon:hover{
+    background-color: gold;
+}
+.Broccoli:hover{
+    background-color: gold;
+}
+.circular{
+    border-radius: 50%;
+}
+            /*ID selectors*/
+#heading{
+    color: blue;
+}
